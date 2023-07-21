@@ -133,4 +133,4 @@ https://github.com/abbycantcode/Nuclei-Template
 https://github.com/pacho15/mynuclei_templates
 https://github.com/pikpikcu/my-nuclei-templates
 https://github.com/SirBugs/Priv8-Nuclei-Templates
-https://github.com/projectdiscovery/nuclei-templates
+
